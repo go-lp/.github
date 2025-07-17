@@ -1,4 +1,4 @@
-# golp — Go Light Packages  
+# GOLP — Go Light Packages  
 
 **golp** (Go Light Packages) is a collection of open-source, lightweight Go libraries designed to help developers build clean, efficient, and maintainable Go applications.  
 
